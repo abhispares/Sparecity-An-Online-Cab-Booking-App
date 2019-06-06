@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sparecity</string>
+    <string name="title_activity_welcome">Map</string>
+    <string name="google_direction_api">
+        AIzaSyBlKXfv836xHqnTN1I9TcubEoCwt79fHrg
+    </string>
+    <string name="title_activity_driver_tracking">Map</string>
+</resources>

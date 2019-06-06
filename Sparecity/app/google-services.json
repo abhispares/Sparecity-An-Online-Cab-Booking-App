@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "1063156200114",
+    "firebase_url": "https://sparecity-4e5c7.firebaseio.com",
+    "project_id": "sparecity-4e5c7",
+    "storage_bucket": "sparecity-4e5c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063156200114:android:1889ae32d1761916",
+        "android_client_info": {
+          "package_name": "com.example.sparecity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063156200114-7m0c8dv7ntqlolqpeu5btbjf8rc7rbqr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sparecity",
+            "certificate_hash": "ce1dacd2106fd2214049daef8aee1824a749cc2a"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZNT3_4t8fPYcJ_zc3hGpPva2-2Dm27dw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063156200114-m4vg22h9pgcmvccbcnr5gqpaap3buetb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
